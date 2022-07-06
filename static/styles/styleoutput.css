@@ -1,0 +1,146 @@
+body {
+
+
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+#automatagrp6{
+  font-family: sans-serif;
+  font-size: 6rem;
+
+}
+
+.maincont{
+
+  text-align: center;
+
+}
+
+
+
+#backbutton{
+
+  position: absolute;
+  margin-top: 1rem;
+right:20rem;
+  width:0.5rem;
+  height: 5rem;
+}
+
+
+
+#backward{
+
+  position: absolute;
+  margin-top: 40rem;
+right:7.5rem;
+  width:14rem;
+  height: 5rem;
+}
+
+#readnext{
+
+  position: absolute;
+  margin-top:30rem;
+right:7.5rem;
+  width:14rem;
+  height: 5rem;
+}
+
+
+
+
+
+
+#output{
+
+  position: absolute;
+left:20rem;
+
+}
+
+
+#dfabutton{
+
+  position:absolute;
+  margin-top: 1rem;
+  right: 11.6rem;
+  width:10rem;
+  height: 7rem;
+}
+#pdabutton{
+
+  position:absolute;
+  margin-top: 8rem;
+  right: 11.6rem;
+  width:10rem;
+  height: 7rem;
+}
+#cfgbutton{
+
+  position:absolute;
+  margin-top: 15rem;
+  right: 11.6rem;
+  width:10rem;
+  height: 7rem;
+}
+
+
+
+.automatacontent{
+
+  position: relative;
+  text-align: center;
+
+background: rgba(0,0,0,0.15);
+  height: 70rem;
+  width: 85%;
+  margin:5rem auto;
+
+}
+
+#accept{
+  font-size: 3em;
+  display: none;
+  color: greenyellow;
+   position: absolute;
+  margin-top:50rem;
+right:7.5rem;
+  width:14rem;
+  height: 5rem;
+
+}
+
+#reject{
+  font-size: 3em;
+  display: none;
+  color: red;
+   position: absolute;
+  margin-top:50rem;
+  right:7.5rem;
+  width:14rem;
+  height: 5rem;
+
+}
+
+.outputpage{
+
+
+  text-align: center;
+padding-top: 8rem;
+
+background: rgba(0,0,0,0.15);
+  height: 70rem;
+  width: 100%;
+  margin:auto;
+
+}
+.regexinputs{
+
+  font-size: 3em;
+  color: white;
+
+}
